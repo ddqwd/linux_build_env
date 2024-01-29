@@ -1,6 +1,6 @@
 #!/bin/bash
 # install 
-sudo apt install fzf ripgrep eog 
+sudo apt install fzf ripgrep eog bat autojump exa
 
 echo "
 
