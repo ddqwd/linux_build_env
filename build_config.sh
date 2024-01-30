@@ -7,7 +7,7 @@ sudo apt install fzf ripgrep eog bat autojump exa
 
 
 # build-xorgsever
-
+sudo apt install nettle-*
 
 echo "
 
